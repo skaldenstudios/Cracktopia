@@ -1,0 +1,16 @@
+Temp/
+Library/
+Logs/
+obj/
+Build/
+.vs/
+*.csproj
+*.sln
+Temp/
+Library/
+Logs/
+obj/
+Build/
+.vs/
+*.csproj
+*.sln
